@@ -1,4 +1,4 @@
-require('./mongo')
+//require('./mongo')
 const express = require('express')
 
 const api = require('./routes')
